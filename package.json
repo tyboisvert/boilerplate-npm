@@ -1,6 +1,7 @@
 {
 	"author": "Ty B",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is a package description",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
